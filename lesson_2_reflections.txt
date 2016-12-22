@@ -17,6 +17,7 @@ organized? How would branches help?
     Human readable label. Create different experimental version or varitions.
 
 How do the diagrams help you visualize the branch structure?
+    Help to know the reachability of each brach. 
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
